@@ -70,3 +70,7 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 - Notebook: [USU_11_BC_CZ.ipynb](USU_11_BC_CZ.ipynb)
 - **deadline: 18.5.2022 7:59**
 
+### 12. Metody transformace příznaků
+- Notebook: [USU_12_PCA_LDA_CZ.ipynb](USU_12_PCA_LDA_CZ.ipynb)
+- Bonusová část: implementace metody LDA
+- **deadline: 25.5.2022 7:59**
