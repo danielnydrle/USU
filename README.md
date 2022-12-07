@@ -6,9 +6,10 @@
 
 Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 10 či Linuxem je:
 
-1. Instalace: [64-bitová 3.x verze distribuce Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+1. Instalace: [64-bitová 3.9 verze distribuce Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 	- Při instalaci nevolte přidání spustitelných skriptů Anacondy do standardních cest. Po instalaci spusťte Anaconda Prompt a zadejte příkaz conda init, aby bylo možné ji používat i z běžného příkazového řádku (cmd.exe). V opačném případě bude pro práci vždy nutné spouštět Anaconda Prompt, která všechny potřebné cesty již obsahuje.
-2. Vytvoření prostředí pro předmět USU: conda create -n usu python=3.9
+	- Neinstalujte do adresáře obsahujícího v cestě slova s diakritikou.
+2. Vytvoření prostředí pro předmět USU v běžné příkazové řádce: conda create -n usu python=3.9
 3. Aktivace vytvořeného prostředí: conda activate usu
 4. Instalace modulů ze seznamu závislostí:
    - jako conda balíky příkazem `pip install <balik>`,
@@ -16,6 +17,7 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
    - pip install notebook   
    - pip install numpy   
    - pip install matplotlib
+5. Spuštění jupyter notebooku v příkazové řádce: jupyter notebook (v případě problémů: python -n notebook)
 
 ## Podmínky zápočtu
 
