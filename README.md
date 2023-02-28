@@ -34,40 +34,40 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 - Rychlý úvod [numpy.org](https://numpy.org/doc/stable/user/quickstart.html) až do začátku části "Splitting one array into several smaller ones". 
 - Rozdíly mezi Numpy a Matlabem [numpy.org](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 - Notebook: [USU_01_INTRO_CZ.ipynb](USU_01_INTRO_CZ.ipynb)
-- **deadline: 9.11.2022 7:59**
+- **deadline: 7.3.2023 7:59**
  
 ### 2. Regrese analyticky
 - Notebook: [USU_02_LR_LSE_CZ.ipynb](USU_02_LR_LSE_CZ.ipynb)
 - Bonusová část: podúloha na exponenciální regresi
-- **deadline: 16.11.2022 7:59**
+- **deadline: 14.3.2023 7:59**
 
 ### 3. Regrese metodou největšího spádu
 - Notebook: [USU_03_LR_SGD_CZ.ipynb](USU_03_LR_SGD_CZ.ipynb)
-- **deadline: 23.11.2022 7:59**
+- **deadline: 21.3.2023 7:59**
 
 ### 4,5. Klasifikace metodou nejbližšího souseda
 - Notebook: [USU_04_KNN_CZ.ipynb](USU_04_KNN_CZ.ipynb)
 - Bonusová část: za úlohu lze získat až 2 bonusové body. Hodnotí se efektivita implementace (čím méně cyklů for tím lépe) a zodpovězení závěrečné otázky na složitost jednotlivých metod.
-- **deadline: 30.11.2022 7:59**
+- **deadline: 4.4.2023 7:59**
 
 ### 6. Logistická regrese
 - Notebook: [USU_06_BLR_CZ.ipynb](USU_06_BLR_CZ.ipynb)
-- **deadline: 7.12.2022 7:59**
+- **deadline: 11.4.2023 7:59**
 
 ### 7. Softmax
 - Notebook: [USU_07_SOFTMAX_CZ.ipynb](USU_07_SOFTMAX_CZ.ipynb)
-- **deadline: 14.12.2022 7:59**
+- **deadline: 18.4.2023 7:59**
 
 ### 8,9. SVM
 - Notebook: [USU_08_SVM_CZ.ipynb](USU_08_SVM_CZ.ipynb)
 - Bonusová úloha: za vypracování jsou 2 bonusové body.
 - Bonusová část: za vypracování řešení v maticovém tvaru (tzn. bez použití cyklu for přes jednolitvé vzorky data) lze získat další 1 bonusový bod.
-- **deadline: 30.12.2022 7:59**
+- **deadline: 2.5.2023 7:59**
 
 ### 10. Neuronová síť typu MLP
 - Notebook: [USU_10_NN_CZ.ipynb](USU_10_NN_CZ.ipynb)
 - Bonusová část: Pro získání bonusového bodu je potřeba dosáhnout s ReLU aktivační funkci úspěšnosti > 90%. Pro tento účel je nutné odladit hodnotu parametru $\alpha$
-- **deadline: 30.12.2022 7:59**
+- **deadline: 25.4.2023 7:59**
 
 ### 11. Bayesovský klasifikátor
 - Notebook: [USU_11_BC_CZ.ipynb](USU_11_BC_CZ.ipynb)
