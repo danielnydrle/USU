@@ -4,14 +4,15 @@
 
 ## Instalace
 
-Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 10 či Linuxem je:
+Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 10 či Linuxem, je:
 
 1. Instalace: [64-bitová 3.9 verze distribuce Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 	- Při instalaci nevolte přidání spustitelných skriptů Anacondy do standardních cest. Po instalaci spusťte Anaconda Prompt a zadejte příkaz conda init, aby bylo možné ji používat i z běžného příkazového řádku (cmd.exe). V opačném případě bude pro práci vždy nutné spouštět Anaconda Prompt, která všechny potřebné cesty již obsahuje.
 	- Neinstalujte do adresáře obsahujícího v cestě slova s diakritikou.
+  - Před instalací odstraňte předchozí verze Pythonu.
 2. Vytvoření prostředí pro předmět USU v běžné příkazové řádce: conda create -n usu python=3.9
 3. Aktivace vytvořeného prostředí: conda activate usu
-4. Instalace modulů ze seznamu závislostí:
+4. Instalace modulů ze seznamu závislostí do vytvořeného prostředí:
    - jako conda balíky příkazem `pip install <balik>`,
    - pip install torch
    - pip install notebook   
@@ -60,7 +61,6 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 
 ### 8,9. SVM
 - Notebook: [USU_08_SVM_CZ.ipynb](USU_08_SVM_CZ.ipynb)
-- Bonusová úloha: za vypracování jsou 2 bonusové body.
 - Bonusová část: za vypracování řešení v maticovém tvaru (tzn. bez použití cyklu for přes jednolitvé vzorky data) lze získat další 1 bonusový bod.
 - **deadline: 2.5.2023 7:59**
 
