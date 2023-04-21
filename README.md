@@ -28,6 +28,8 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 
 ## Jednotlivá cvičení
 
+Soubory odevzdávejte mailem pojmenované ve tvaru Prijmeni_cislo.ipynb, např. Cerva_02.ipynb
+
 ### 1. Úvod 
 - Seznamení se s prostředím jupyter notebook:
 - Rychlý úvod [youtube](https://www.youtube.com/watch?v=HW29067qVWk)
@@ -57,17 +59,17 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 
 ### 7. Softmax
 - Notebook: [USU_07_SOFTMAX_CZ.ipynb](USU_07_SOFTMAX_CZ.ipynb)
-- **deadline: 18.4.2023 7:59**
+- **deadline: 25.4.2023 7:59**
 
 ### 8,9. SVM
 - Notebook: [USU_08_SVM_CZ.ipynb](USU_08_SVM_CZ.ipynb)
-- Bonusová část: za vypracování řešení v maticovém tvaru (tzn. bez použití cyklu for přes jednolitvé vzorky data) lze získat další 1 bonusový bod.
-- **deadline: 2.5.2023 7:59**
+- Bonusová část: za vypracování řešení v maticovém tvaru (tzn. bez použití cyklu for přes jednolitvé vzorky data) lze získat bonusový bod.
+- **deadline: 9.5.2023 7:59**
 
 ### 10. Neuronová síť typu MLP
 - Notebook: [USU_10_NN_CZ.ipynb](USU_10_NN_CZ.ipynb)
 - Bonusová část: Pro získání bonusového bodu je potřeba dosáhnout s ReLU aktivační funkci úspěšnosti > 90%. Pro tento účel je nutné odladit hodnotu parametru $\alpha$
-- **deadline: 25.4.2023 7:59**
+- **deadline: 16.5.2023 7:59**
 
 ### 11. Bayesovský klasifikátor
 - Notebook: [USU_11_BC_CZ.ipynb](USU_11_BC_CZ.ipynb)
