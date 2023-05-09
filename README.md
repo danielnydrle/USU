@@ -69,11 +69,11 @@ Soubory odevzdávejte mailem pojmenované ve tvaru Prijmeni_cislo.ipynb, např. 
 ### 10. Neuronová síť typu MLP
 - Notebook: [USU_10_NN_CZ.ipynb](USU_10_NN_CZ.ipynb)
 - Bonusová část: Pro získání bonusového bodu je potřeba dosáhnout s ReLU aktivační funkci úspěšnosti > 90%. Pro tento účel je nutné odladit hodnotu parametru $\alpha$
-- **deadline: 16.5.2023 7:59**
+- **deadline: 23.5.2023 7:59**
 
 ### 11. Bayesovský klasifikátor
 - Notebook: [USU_11_BC_CZ.ipynb](USU_11_BC_CZ.ipynb)
-- **deadline**
+- **deadline: 30.5.2023 7:59****
 
 ### 12. Metody transformace příznaků
 - Notebook: [USU_12_PCA_LDA_CZ.ipynb](USU_12_PCA_LDA_CZ.ipynb)
