@@ -28,8 +28,6 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 
 ## Jednotlivá cvičení
 
-Soubory odevzdávejte mailem pojmenované ve tvaru Prijmeni_cislo.ipynb, např. Cerva_02.ipynb
-
 ### 1. Úvod 
 - Seznamení se s prostředím jupyter notebook:
 - Rychlý úvod [youtube](https://www.youtube.com/watch?v=HW29067qVWk)
@@ -37,21 +35,21 @@ Soubory odevzdávejte mailem pojmenované ve tvaru Prijmeni_cislo.ipynb, např. 
 - Rychlý úvod [numpy.org](https://numpy.org/doc/stable/user/quickstart.html) až do začátku části "Splitting one array into several smaller ones". 
 - Rozdíly mezi Numpy a Matlabem [numpy.org](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 - Notebook: [USU_01_INTRO_CZ.ipynb](USU_01_INTRO_CZ.ipynb)
-- **deadline: 7.3.2023 7:59**
+- **deadline: 27.2.2024 7:59**
  
 ### 2. Regrese analyticky
 - Notebook: [USU_02_LR_LSE_CZ.ipynb](USU_02_LR_LSE_CZ.ipynb)
 - Bonusová část: podúloha na exponenciální regresi
-- **deadline: 14.3.2023 7:59**
+- **deadline: 5.3.2024 7:59**
 
 ### 3. Regrese metodou největšího spádu
 - Notebook: [USU_03_LR_SGD_CZ.ipynb](USU_03_LR_SGD_CZ.ipynb)
-- **deadline: 21.3.2023 7:59**
+- **deadline: 12.3.2023 7:59**
 
 ### 4,5. Klasifikace metodou nejbližšího souseda
 - Notebook: [USU_04_KNN_CZ.ipynb](USU_04_KNN_CZ.ipynb)
 - Bonusová část: za úlohu lze získat až 2 bonusové body. Hodnotí se efektivita implementace (čím méně cyklů for tím lépe) a zodpovězení závěrečné otázky na složitost jednotlivých metod.
-- **deadline: 4.4.2023 7:59**
+- **deadline: 26.3.2023 7:59**
 
 ### 6. Logistická regrese
 - Notebook: [USU_06_BLR_CZ.ipynb](USU_06_BLR_CZ.ipynb)
