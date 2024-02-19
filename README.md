@@ -44,12 +44,12 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 
 ### 3. Regrese metodou největšího spádu
 - Notebook: [USU_03_LR_SGD_CZ.ipynb](USU_03_LR_SGD_CZ.ipynb)
-- **deadline: 12.3.2023 7:59**
+- **deadline: 12.3.2024 7:59**
 
 ### 4,5. Klasifikace metodou nejbližšího souseda
 - Notebook: [USU_04_KNN_CZ.ipynb](USU_04_KNN_CZ.ipynb)
 - Bonusová část: za úlohu lze získat až 2 bonusové body. Hodnotí se efektivita implementace (čím méně cyklů for tím lépe) a zodpovězení závěrečné otázky na složitost jednotlivých metod.
-- **deadline: 26.3.2023 7:59**
+- **deadline: 26.3.2024 7:59**
 
 ### 6. Logistická regrese
 - Notebook: [USU_06_BLR_CZ.ipynb](USU_06_BLR_CZ.ipynb)
